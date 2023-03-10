@@ -1,0 +1,1 @@
+các file cấu hình phải để trong thu mục resource nếu không thì phải config lại thư mục
